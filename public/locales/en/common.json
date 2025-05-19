@@ -1,0 +1,89 @@
+{
+  "header_button": "book table",
+  "hero": {
+    "hero_title": "WE SERVE FOOD BUT WITH ",
+    "hero_title_with_color": "A PURPOSE"
+  },
+  "about": {
+    "sub_title": "WELCOME TO TREATOS",
+    "about_title": "WHERE EVERY MEAL IS A ",
+    "about_title_with_color": "CULINARY JOURNEY",
+    "about_button": "explore our menu",
+    "description": {
+      "part_1": "at treatos, we're passionate about delivering exceptional dining experiences. our chefs meticulously source the finest ingredients to create dishes that tantalize the taste buds and ignite the senses. from succulent seafood to perfectly grilled steaks, each item on our menu reflects our commitment to culinary excellence.",
+      "part_2": "come experience the magic of treatos for yourself. reserve your table today and treat yourself to an unforgettable dining experience."
+    }
+  },
+  "offers": {
+    "offer_1": {
+      "title": "SEAFOOD DELIGHT: INDULGE IN THE BEST CATCH",
+      "discount": "25% discount"
+    },
+    "offer_2": {
+      "title": "SIZZLING STEAKS: EXPERIENCE THE PERFECT CUT",
+      "discount": "10% discount"
+    },
+    "offer_3": {
+      "title": "GOURMET DINING: DISCOVER CULINARY EXCELLENCE",
+      "discount": "15% discount"
+    }
+  },
+  "menu": {
+    "menu_title": "OUR ",
+    "menu_title_with_color": "SPECIAL MENU",
+    "menu_button": "visit our menu",
+    "menu_1": {
+      "title": "Broccoli And Chorizo Fritters",
+      "price": "$25",
+      "discount": "5% off"
+    },
+    "menu_2": {
+      "title": "Chicken And Sundries Tomato Baguette",
+      "price": "$10",
+      "discount": "15% off"
+    },
+    "menu_3": {
+      "title": "Peri Peri Chicken Burger & Fish Cakes",
+      "price": "$15",
+      "discount": "10% off"
+    }
+  },
+  "video": {
+    "video_comment_description": "I've been craving a good steak for weeks, and this place exceeded my expectations! Cooked to perfection and seasoned just right. The sides were delicious too. A bit pricey, but worth it for the quality. Ambiance was elegant yet cozy. Service impeccable. I'll definitely be coming back!",
+    "video_comment_author": "Emily",
+    "video_comment_author_profession": "founder at seative digital"
+  },
+  "recipes": {
+    "title": "discover all",
+    "recipes_title": "OUR RECIPES"
+  },
+  "announce": {
+    "announce_sub_title": "TREATOS APP",
+    "announce_title": "download the ",
+    "announce_title_with_color": "mobile application",
+    "announce_description": "examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. while using this site, you agree to have read and accepted our terms of use"
+  },
+  "newsletter": {
+    "title": "Love Eating? Like Offer?",
+    "description": "Subscribe to our newsletter and be the first to know about our latest promotions, special events, and exclusive offers. Join our community of food enthusiasts and never miss out on the excitement at treatos.",
+    "button": "Subscribe",
+    "placeholder": "Email Address",
+    "error_message": "Please enter a valid email address."
+  },
+  "icons_titles": {
+    "call_now": "CALL NOW",
+    "email": "email",
+    "location": "LOCATION"
+  },
+  "footer": {
+    "footer_links": {
+      "title": "USEFUL LINKS",
+      "home": "HOME",
+      "about": "ABOUT",
+      "offer": "OFFER",
+      "gallery": "GALLERY",
+      "blog": "BLOG"
+    },
+    "footer_copyright": "Copyright BtwYassine All Right Reserved"
+  }
+}
