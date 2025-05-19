@@ -1,0 +1,89 @@
+{
+  "header_button": "réserver",
+  "hero": {
+    "hero_title": "NOUS SERVONS DE LA NOURRITURE MAIS AVEC ",
+    "hero_title_with_color": "UN OBJECTIF"
+  },
+  "about": {
+    "sub_title": "BIENVENUE À TREATOS",
+    "about_title": "OÙ CHAQUE REPAS EST ",
+    "about_title_with_color": "UN VOYAGE",
+    "about_button": "explorez",
+    "description": {
+      "part_1": "chez treatos, nous sommes passionnés par la création d'expériences culinaires exceptionnelles. nos chefs sélectionnent méticuleusement les meilleurs ingrédients pour créer des plats qui éveillent les papilles et enflamment les sens. des fruits de mer succulents aux steaks parfaitement grillés, chaque plat de notre menu reflète notre engagement envers l'excellence culinaire.",
+      "part_2": "venez découvrir la magie de treatos par vous-même. réservez votre table aujourd'hui et offrez-vous une expérience culinaire inoubliable."
+    }
+  },
+  "offers": {
+    "offer_1": {
+      "title": "DÉLICE DE FRUITS DE MER : SAVOUREZ LA MEILLEURE PRISE",
+      "discount": "25% de réduction"
+    },
+    "offer_2": {
+      "title": "STEAKS GRILLÉS : EXPÉRIENCE LA COUPE PARFAITE",
+      "discount": "10% de réduction"
+    },
+    "offer_3": {
+      "title": "DINER GASTRONOMIQUE : DÉCOUVREZ L'EXCELLENCE CULINAIRE",
+      "discount": "15% de réduction"
+    }
+  },
+  "menu": {
+    "menu_title": "NOTRE ",
+    "menu_title_with_color": "MENU SPÉCIAL",
+    "menu_button": "voir menu",
+    "menu_1": {
+      "title": "Beignets de Brocoli et Chorizo",
+      "price": "25 $",
+      "discount": "5% de réduction"
+    },
+    "menu_2": {
+      "title": "Baguette au Poulet et Tomate Séchée",
+      "price": "10 $",
+      "discount": "15% de réduction"
+    },
+    "menu_3": {
+      "title": "Burger de Poulet Peri Peri & Galettes de Poisson",
+      "price": "15 $",
+      "discount": "10% de réduction"
+    }
+  },
+  "video": {
+    "video_comment_description": "Je cherchais un bon steak depuis des semaines, et cet endroit a dépassé mes attentes ! Cuit à la perfection et assaisonné juste comme il faut. Un peu cher, mais vaut la qualité. Ambiance élégante et chaleureuse. Service impeccable. Je reviendrai certainement !",
+    "video_comment_author": "Emily",
+    "video_comment_author_profession": "Gourmet Critic"
+  },
+  "recipes": {
+    "title": "découvrez tout",
+    "recipes_title": "NOS RECETTES"
+  },
+  "announce": {
+    "announce_sub_title": "APPLICATION TREATOS",
+    "announce_title": "téléchargez l'",
+    "announce_title_with_color": "application mobile",
+    "announce_description": "les exemples sont constamment révisés pour éviter les erreurs, mais nous ne pouvons pas garantir la correction complète de tous les contenus. en utilisant ce site, vous acceptez d'avoir lu et accepté nos conditions d'utilisation"
+  },
+  "newsletter": {
+    "title": "Aimez-vous manger ? les offres ?",
+    "description": "Abonnez-vous à notre newsletter et soyez le premier à connaître nos dernières promotions, événements spéciaux et offres exclusives. Rejoignez notre communauté d'amateurs de bonne chère et ne manquez jamais l'excitation chez treatos.",
+    "button": "S'abonner",
+    "placeholder": "Adresse e-mail",
+    "error_message": "Veuillez entrer une adresse e-mail valide."
+  },
+  "icons_titles": {
+    "call_now": "APPELEZ",
+    "email": "e-mail",
+    "location": "EMPLACEMENT"
+  },
+  "footer": {
+    "footer_links": {
+      "title": "LIENS UTILES",
+      "home": "ACCUEIL",
+      "about": "À PROPOS",
+      "offer": "OFFRE",
+      "gallery": "GALERIE",
+      "blog": "BLOG"
+    },
+    "footer_copyright": "Copyright BtwYassine Tous Droits Réservés"
+  }
+}
